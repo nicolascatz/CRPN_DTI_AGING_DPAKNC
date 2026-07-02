@@ -1,12 +1,4 @@
-venv
-.venv
+.venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/          
+.ipynb_checkpoints/
